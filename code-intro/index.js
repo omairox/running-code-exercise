@@ -237,3 +237,5 @@ console.log('New Total: ', newTotal);
 // CODE HERE
 const savings = (newTotal / total) * 100 + '%';
 console.log(savings);
+
+// ya mama !
